@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Name: Shanahan Michael Baptista
 B-Number: B00755889
 Email: sbaptis2@binghamton.edu
@@ -38,11 +37,3 @@ How to compile and run
 ----------------------------------------------------------------------------------
 1) go to terminal, cd into project directory and type 'make' to compile project
 2) Run using ./apex_sim <input file name>
-
-
-Please contact your TAs for any assistance or query!
-
-
-=======
-# apex-pipeline-simulator-with-c
->>>>>>> 57c478f1e9e328cf1ba4c556308d83ffa953025c
